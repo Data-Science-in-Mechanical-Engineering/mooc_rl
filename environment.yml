@@ -1,0 +1,23 @@
+name: MOOC_RL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+   - python=3.10.8
+   - matplotlib
+   - numpy=1.23.5
+   - screeninfo
+   - ipykernel
+   - ipywidgets
+   - jupyterlab>=3.0.0,<4.0.0a0
+   - jupyterlab-lsp
+   - python-lsp-server
+   - ipympl
+   - tqdm
+   - pytorch
+   - pip
+   - pillow
+   - graphviz
+   - pip:
+       - pygame==2.1.2
+       - gymnasium==0.26.3
