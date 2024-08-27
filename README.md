@@ -35,10 +35,11 @@ To run the code and notebooks on your local machine, you'll need to set up a Pyt
     ```
 
 
-### Running the Code on Binder
+### Running the Code on Binder 
 
 If you prefer not to install the environment locally, you can easily run the notebooks in a cloud environment using Binder. Simply click the link below to launch the repository in Binder:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Data-Science-in-Mechanical-Engineering/mooc_rl/HEAD)
 
 This will open the repository in an interactive Jupyter Notebook environment without needing to set up anything on your local machine.
 
