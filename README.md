@@ -15,8 +15,8 @@ To run the code and notebooks on your local machine, you'll need to set up a Pyt
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/reinforcement-learning-mooc.git
-    cd reinforcement-learning-mooc
+    git clone https://github.com/Data-Science-in-Mechanical-Engineering/mooc_rl.git
+    cd mooc_rl
     ```
 2. **Create a new conda environment:**:
 
@@ -26,7 +26,7 @@ To run the code and notebooks on your local machine, you'll need to set up a Pyt
 3. **Activate the environment:**:
 
     ```bash
-    conda activate rl-mooc
+    conda activate MOOC_RL
     ```
 4. **Launch Jupyter Lab:**:
 
