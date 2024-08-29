@@ -18,17 +18,17 @@ To run the code and notebooks on your local machine, you'll need to set up a Pyt
     git clone https://github.com/Data-Science-in-Mechanical-Engineering/mooc_rl.git
     cd mooc_rl
     ```
-2. **Create a new conda environment:**:
+2. **Create a new conda environment**:
 
     ```bash
     conda env create -f environment.yml
     ```
-3. **Activate the environment:**:
+3. **Activate the environment**:
 
     ```bash
     conda activate MOOC_RL
     ```
-4. **Launch Jupyter Lab:**:
+4. **Launch Jupyter Lab**:
 
     ```bash
     jupyter lab
