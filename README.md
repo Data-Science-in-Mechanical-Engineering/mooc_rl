@@ -6,7 +6,10 @@ Welcome to the code base for the MOOC on Reinforcement Learning! Below is an ove
 
 The repository is organized into folders by weeks. We provide notebooks for Week 3, Week 5, Week 7, and Week 8.
 
-## Setting up the Environment
+## Getting Startet
+
+There are two possible options for working with the provided notebooks: setting up a local environment on you machine or using Binder.
+Note that Binder is a free hosting service and therefore training a model will likely be faster on you local machine.
 
 ### Setting Up the Environment Locally
 
@@ -45,8 +48,11 @@ This will open the repository in an interactive Jupyter Notebook environment wit
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+We will not actively manage these but suggestions may improve future iteration of this course.
 
 --- 
 
 Happy learning, and good luck with your Reinforcement Learning journey!
+
+Your MOOC RL Team
